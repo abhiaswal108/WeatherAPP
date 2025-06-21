@@ -1,0 +1,8 @@
+api key - 0eba555e2956803e2f5fa20bdb50c3cf
+
+
+http://api.weatherstack.com/current?access_key=0eba555e2956803e2f5fa20bdb50c3cf&query=Dehradun
+
+
+long lat
+"https://api.weatherstack.com/current?access_key=0eba555e2956803e2f5fa20bdb50c3cf&query=40.7831,-73.9712"
